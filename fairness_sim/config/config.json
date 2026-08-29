@@ -1,0 +1,11 @@
+{
+  "rounds": 30,
+  "agents_file": "agents.json",
+  "initial_resource": null,
+  "resource_multiplier": 2.0,
+  "save_results": true,
+  "results_dir": "results",
+  "distribution_methods": ["equal", "llm_needs_based", "contribution_based", "discussion"],
+  "enable_history_awareness": true,
+  "experiment_name": "generated_agents_experiment"
+}
